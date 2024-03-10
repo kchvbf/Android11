@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FactApp</string>
+    <string name="fact_text">Факты о котиках</string>
+    <string name="fact_service_btn_text">Сервис</string>
+    <string name="fact_worker_btn_text">WorkManager</string>
+    <string name="selection_screen_text">Выберите запрос в сеть</string>
+</resources>
